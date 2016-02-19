@@ -1,6 +1,6 @@
 //
-//  shangkeTests.m
-//  shangkeTests
+//  fengTests.m
+//  fengTests
 //
 //  Created by Wind on 16-2-19.
 //  Copyright (c) 2016年 Wind. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface shangkeTests : XCTestCase
+@interface fengTests : XCTestCase
 
 @end
 
-@implementation shangkeTests
+@implementation fengTests
 
 - (void)setUp {
     [super setUp];
